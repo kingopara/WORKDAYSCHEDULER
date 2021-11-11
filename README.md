@@ -53,9 +53,15 @@ SO THAT I can manage my time effectively
 * Bootstrap
 * Moment.js
 
+## Installation
+
+Clone the repo into your computer system
+
 ## Usage
 
+Open the app in the browser, add your event(s) to the available times on the daily scheduler and save it and its saved in the local storage.
 
+Your details are saved even after refreshing the page.
 
 # Credit 
 * Praise Opara
