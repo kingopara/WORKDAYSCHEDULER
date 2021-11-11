@@ -2,6 +2,16 @@
 
 ## Table of Content
 
+* [Description](#description)
+* [Preview](#preview)
+* [Project Requirements](#projectrequirements)
+* [Built With](#builtwith)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Credits](#credits)
+* [License](#license)
+* [Badges](#Badges)
+* [Contributing](#contributing)
 
 ## Description
 
@@ -44,7 +54,6 @@ SO THAT I can manage my time effectively
 
     `THEN the saved events persist`
 
-
 ## Built With
 * HTML
 * CSS
@@ -55,11 +64,15 @@ SO THAT I can manage my time effectively
 
 ## Installation
 
-Clone the repo into your computer system
+[Clone the repo into your computer system](https://github.com/kingopara/WorkDayScheduler1)
 
 ## Usage
 
-Open the app in the browser, add your event(s) to the available times on the daily scheduler and save it and its saved in the local storage.
+Open the app in the browser, 
+
+Add your event(s) to the available times on the daily scheduler and save it 
+
+Its saved in the local storage.
 
 Your details are saved even after refreshing the page.
 
